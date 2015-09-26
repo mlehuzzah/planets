@@ -1,2 +1,3 @@
 Mars is near Earth (relatively speaking).
 Mars is a planet.
+Here is another sentence about Mars.
