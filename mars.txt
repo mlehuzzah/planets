@@ -1,1 +1,2 @@
-Mars is near Earth.
+Mars is near Earth (relatively speaking).
+Mars is a planet.
